@@ -1,6 +1,6 @@
 # Mathematical Optimization
 
-This is a repository of simple examples on mathematical optimization using scipy, pyomo, ipopt, mip, cbc, etc. 
+This is a repository of simple examples on mathematical optimization (linear, mixed integer, non-linear) using scipy, pyomo, ipopt, mip, cbc, etc. 
 
 ##### To know more: 
 >SciPy Optimize https://docs.scipy.org/doc/scipy/reference/tutorial/optimize.html
